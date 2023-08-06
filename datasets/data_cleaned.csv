@@ -1,6 +1,5 @@
 Alter,Geschlecht,"Welcher Funktion an der HSD fühlst du dich am meisten
-zugehörig?",Welchem Studiengang fühlst du dich am meisten zugehörig?,Als wie sportlich würdest du dich einschätzen?,Was ist deine absolute Lieblingssportart?,Welche Rolle spielt für dich gesunde Ernährung? ,Wie gerne gehst du Essen oder Trinken?,Wie gerne kochst du selbst?,Wie gerne gehst du feiern?,Was ist dein Lieblingsessen? (nur eines angeben),Wie sehr interessierst du dich für Musik?,"Was ist deine Lieblingsband bzw. dein/e Lieblings-Musiker*in?
-(nur eine/n angeben)",Wie gerne liest Du?,"Wie sehr interessierst du dich für darstellende Künste
+zugehörig?",Welchem Studiengang fühlst du dich am meisten zugehörig?,Als wie sportlich würdest du dich einschätzen?,Was ist deine absolute Lieblingssportart?,Welche Rolle spielt für dich gesunde Ernährung? ,Wie gerne gehst du Essen oder Trinken?,Wie gerne kochst du selbst?,Wie gerne gehst du feiern?,Was ist dein Lieblingsessen? (nur eines angeben),Wie sehr interessierst du dich für Musik?,Wie gerne liest Du?,"Wie sehr interessierst du dich für darstellende Künste
 wie Schauspiel, Tanz oder Gesang?","Wie sehr interessierst du sich für Filme, Kino, Fernsehsendungen?","Wie sehr interessierst du dich für bildende Kunst wie
 Malen, Zeichnen oder Fotografie?",Wie gerne besuchst du Museen?,Wie sehr interessierst du dich für Videospiele?,Wie häufig nutzt du soziale Medien?,"Wie groß ist dein Interesse an Technologie und Innovation,
 wie beispielsweise Programmierung, Robotik und Virtual Reality?","Wie groß ist dein Interesse an Astronomie, Weltraumforschung
@@ -19,65 +18,65 @@ sehr) [abenteuerlustig]","Hattest du schon einmal Zweifel daran, ob du dein Stud
 schaffen kannst?",Wie zufrieden bist du mit deinem Studium? ,"Strebst du nach dem Studium auch weiterhin eine akademische
 Laufbahn an?",Wie gern lernst Du in der Gruppe?,"Prokrastinierst du, wenn du lernen müsstest?",Wie häufig machst du Abgaben auf den letzten Drücker?,Wie gerne probierst du neue Lebensmittel aus?,"Wie häufig verbringst du Zeit in der Natur (z. B. beim
 Wandern oder Camping)?",Wie häufig verreist du?,Wie interessiert bist du an handwerklichen Tätigkeiten?,Wie gerne magst du Sprachnachrichten?,Wie wichtig ist es dir viel Geld zu verdienen?,Interesse an Basketball? (encoded),Interesse an Bouldern/Klettern? (encoded),Interesse an Football? (encoded),Interesse an Fußball? (encoded),Interesse an Handball? (encoded),Interesse an Hockey? (encoded),Interesse an Kampfsport? (encoded),Interesse an Leichtathletik? (encoded),Interesse an Reiten? (encoded),Interesse an Rennrad/Mountainbike? (encoded),Interesse an Schwimmen? (encoded),Interesse an Tanzen? (encoded),Interesse an Tennis? (encoded),Interesse an Volleyball? (encoded),Interesse an Wassersport? (encoded),Interesse an Wintersport? (encoded),Interesse an Yoga? (encoded),Genre des Lieblingsmusikers (encoded)
-28,männlich,Student*in,MMI,4,Joggen,4,3,4,3,Vegane Lasagne,5,Kraftklub,4,3,3,3,2,2,3,4,2,2,3,3,3,3,3,4,4,4,3,3,2,4,1,5,3,2,5,5,2,2,3,3,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Rock
-26,männlich,Student*in,MMI,3,Fußball,4,4,5,2,Butterbrot,4,Red Hot Chili Peppers,2,3,4,4,4,4,5,5,4,4,3,4,3,3,3,1,4,2,2,3,3,4,3,3,2,2,4,3,3,4,3,4,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,Rock
-24,männlich,Student*in,MMI,2,Keine Lieblingssportart,5,4,4,3,Lasagne,5,The 1975,2,3,4,4,5,3,4,4,3,2,4,5,4,5,4,2,4,5,1,4,2,4,3,5,5,1,3,2,3,2,4,3,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,Alternative
-23,männlich,Student*in,MMI,5,Trampolin,2,4,4,2,Burger,3,Kein Lieblingsmusiker,3,2,4,1,3,4,2,5,2,3,4,3,3,2,2,1,5,4,2,4,3,4,2,2,2,3,5,4,4,2,3,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Kein Lieblingsgenre
-24,weiblich,Student*in,MMI,3,Klettern,4,3,2,1,Dampfnudeln,3,Kein Lieblingsmusiker,4,2,5,2,2,1,2,4,1,2,2,2,3,2,5,4,4,4,2,5,4,4,1,1,5,5,2,3,4,3,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
-30,männlich,Student*in,MMI,4,Bouldern,3,3,5,4,Pho,2,Kein Lieblingsmusiker,2,1,3,1,1,5,4,5,3,3,3,3,5,4,5,1,4,3,2,5,1,5,1,3,2,1,4,4,5,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
-41,weiblich,Student*in,MMI,3,Keine Lieblingssportart,2,5,3,3,Tomaten,5,Pugliese,4,5,5,5,3,1,4,5,1,3,2,3,4,4,4,1,4,2,1,2,1,4,3,1,3,3,2,4,5,4,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Pop
-24,männlich,Student*in,MMI,3,Fußball,3,4,5,3,Pasta,4,Green Day,4,1,3,4,4,4,4,4,2,2,3,4,2,3,4,4,4,4,3,5,2,4,2,4,4,3,5,4,5,4,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Alternative
-42,männlich,Dozent*in,DAISY,3,Schnorcheln,3,5,5,3,Pizza,4,Pete Philly,4,4,3,4,4,3,2,5,2,5,4,5,3,4,2,3,5,4,1,3,3,3,5,3,1,4,4,2,2,3,1,3,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,Rap/Hip Hop
-34,männlich,Wissenschaftliche*r Mitarbeiter*in,BMI,4,Tennis,4,4,3,2,Sushi,4,Radiohead,3,2,4,3,3,3,4,5,4,5,4,5,3,2,4,2,4,3,1,3,3,4,4,3,3,2,4,3,3,4,2,2,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Alternative
-20,männlich,Student*in,DAISY,4,Keine Lieblingssportart,4,5,2,3,Koreanisches Dakgangjeong,5,Dominic Fike,1,2,3,4,4,2,5,4,4,2,2,3,4,1,4,3,3,3,1,3,3,3,4,2,4,3,5,1,2,1,4,3,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Alternative
-19,männlich,Student*in,DAISY,4,Kampfsport,4,3,5,1,Döner,2,Redlion,5,1,3,2,2,4,4,5,5,5,2,2,3,2,3,2,4,3,1,4,1,4,2,1,4,5,5,2,3,3,2,5,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,Kein Lieblingsgenre
-23,männlich,Student*in,DAISY,4,Football,3,4,5,4,Asiatische Nudeln,5,James Arthur,2,3,4,3,3,5,5,5,2,5,3,4,4,4,4,3,5,3,3,3,3,5,3,5,3,3,3,2,4,3,4,5,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Pop
-24,männlich,Student*in,DAISY,4,Thaiboxen,4,4,4,2,Hühnchen,3,eminem,4,2,2,2,3,4,3,5,4,4,2,1,3,2,4,2,4,3,1,4,2,4,1,2,4,4,4,4,1,2,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,Rap/Hip Hop
-19,männlich,Student*in,DAISY,5,Calisthenics,3,5,3,1,Curry,4,Jakey,5,4,5,2,4,5,5,3,4,3,2,5,2,3,2,4,4,4,2,3,5,2,2,2,5,5,3,2,2,4,5,5,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Rap/Hip Hop
-23,männlich,Student*in,DAISY,4,Calisthenics,4,4,4,2,Burger,4,Apache207,1,1,3,2,2,5,5,5,4,4,1,4,2,4,3,4,5,3,2,4,5,5,1,3,5,5,5,3,3,3,5,5,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Rap/Hip Hop
-28,weiblich,Student*in,DAISY,3,Tauchen,3,4,3,4,Pfannkuchen,4,Antilopen Gang,5,4,4,4,4,4,3,5,4,5,4,5,3,4,3,3,3,4,2,4,2,3,5,2,4,3,4,3,3,4,2,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Rap/Hip Hop
-25,männlich,Student*in,DAISY,2,Tischtennis,4,5,3,3,Burger,4,Drake,3,4,3,4,2,2,5,5,5,2,3,5,3,3,5,3,4,3,1,4,4,4,4,2,4,4,5,3,1,5,2,5,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Rap/Hip Hop
-27,männlich,Student*in,DAISY,2,Tischtennis,3,4,5,4,Risotto,5,I Prevail,2,2,5,3,4,3,4,3,4,2,4,5,3,5,4,3,4,2,1,5,4,4,4,5,5,5,5,4,4,2,2,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,Rock
-25,weiblich,Student*in,MMI,3,Basketball,3,3,4,2,Burger,4,Bad Omens,4,2,3,3,3,4,3,4,2,2,3,4,2,2,3,4,3,3,2,2,3,3,3,5,5,5,3,2,2,2,2,3,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,Rock
-25,weiblich,Student*in,MMI,4,Fußball,3,3,4,2,Pizza,4,Provinz,5,2,5,3,3,3,3,4,2,3,3,4,2,3,3,1,4,5,2,4,2,4,1,4,3,3,4,3,3,2,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pop
-23,männlich,Student*in,DAISY,3,Schwimmen,4,5,4,4,Burger,3,Post Malone,2,2,4,3,2,5,5,5,2,3,3,3,4,4,3,2,4,4,2,3,3,4,2,3,2,2,4,3,3,4,4,4,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Pop
-18,männlich,Student*in,DAISY,5,Fußball,3,4,3,4,Pizza,4,Juice WRLD,2,2,4,1,2,3,4,4,4,2,2,2,2,3,3,2,4,3,2,2,3,4,3,3,4,4,2,2,3,1,4,4,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Rap/Hip Hop
-22,männlich,Student*in,DAISY,3,Basketball,4,3,5,4,Reis mit Sojasoße Hähnchen,4,Avenged Sevenfold,2,4,4,4,2,5,5,5,4,3,3,2,3,2,2,2,3,4,3,4,3,3,1,4,5,2,4,2,4,5,3,5,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,Rock
-22,männlich,Student*in,DAISY,3,Radfahren,5,3,5,2,Kein Lieblingsessen,3,Kein Lieblingsmusiker,2,1,2,4,3,5,2,5,5,4,2,2,3,2,4,2,5,3,1,5,4,3,5,3,4,3,4,5,3,2,2,3,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,Kein Lieblingsgenre
-28,männlich,Student*in,MMI,5,Fitness,5,4,4,5,Döner,5,Klangkuenstler,3,1,5,1,3,1,4,4,1,2,1,1,3,2,2,1,5,4,3,4,1,4,1,3,5,5,3,4,3,1,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Electro
-24,männlich,Student*in,MMI,3,Tischtennis,4,4,4,4,Burrito,5,Lapalux,4,4,4,5,5,3,3,3,2,2,3,4,3,2,4,4,4,4,2,5,1,3,2,3,3,4,5,4,4,4,2,3,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Electro
-24,männlich,Student*in,MMI,4,Fußball,4,4,4,3,Pizza,4,Jack Harlow,1,1,4,4,3,2,4,4,2,2,2,3,3,3,5,2,3,4,3,5,1,4,1,4,4,4,5,3,5,4,2,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
-29,männlich,Student*in,MMI,3,E-Sport ,4,2,4,4,Shakshuka,2,K.I.Z,1,1,4,1,2,4,4,5,1,3,4,4,4,4,2,3,2,5,1,2,4,4,3,3,5,4,5,2,1,2,2,2,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Rap/Hip Hop
-23,weiblich,Student*in,MMI,3,Reiten,4,3,3,2,Pasta,3,Adele,4,3,4,4,2,3,3,4,3,2,4,5,1,4,4,3,2,4,1,3,3,3,4,2,2,3,4,3,3,2,3,3,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,Pop
-31,männlich,Student*in,MMI,2,Tischtennis,1,4,3,5,Pizza,5,King Gizzard and the Lizard Wizard,4,4,5,4,4,5,1,5,5,5,4,5,2,2,4,4,4,5,1,3,5,5,3,4,4,3,3,3,2,4,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Alternative
-27,weiblich,Student*in,DAISY,2,Karate,4,5,5,4,Lasagne,4,Drake,3,2,3,2,2,3,2,4,4,3,2,3,4,3,4,4,4,3,2,3,1,5,3,4,3,3,4,4,2,4,5,5,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Rap/Hip Hop
-24,männlich,Student*in,MMI,2,Keine Lieblingssportart,2,4,2,5,Döner,2,Billy Talent,2,1,3,2,3,5,3,5,2,1,2,2,2,2,4,2,4,4,1,3,1,5,2,3,4,3,5,3,3,3,3,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Alternative
-25,männlich,Student*in,BMI,4,Badminton,3,3,2,2,Pasta,5,Kein Lieblingsmusiker,1,1,3,1,1,5,5,5,2,3,3,4,2,2,4,2,3,3,3,4,4,4,1,2,5,5,4,3,3,2,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
-28,männlich,Wissenschaftliche*r Mitarbeiter*in,BMI,3,Bouldern,3,4,3,2,Lasagne,4,System of a Down,4,1,5,1,2,5,5,5,5,5,1,5,2,2,3,1,5,4,2,3,4,5,2,5,3,2,4,2,2,4,1,4,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Rock
-28,weiblich,Student*in,BMT,2,Radfahren,4,5,3,4,Gurke mit Mozzarella und Tofu,4,Sting,3,4,3,4,3,1,4,4,1,3,4,5,4,4,4,1,4,3,2,4,1,5,3,4,3,5,5,3,2,4,3,3,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,Pop
-23,männlich,Student*in,BMT,4,Tanzen,3,3,3,1,Pfannkuchen,5,Roger Cicero,4,4,4,3,3,2,4,3,4,4,2,3,2,2,3,1,3,5,1,2,2,4,5,3,3,3,4,2,2,1,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Pop
-20,männlich,Student*in,DAISY,4,Kraftsport ,4,5,3,1,Döner,3,Kein Lieblingsmusiker,5,2,4,4,1,3,5,4,5,3,3,5,5,5,4,1,3,4,2,4,2,4,5,5,3,5,5,2,2,4,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
-19,weiblich,Student*in,DAISY,2,Volleyball,3,4,5,3,Sushi,5,Mac Miller,2,5,5,5,4,4,5,4,2,1,5,5,4,4,4,4,5,3,1,4,3,4,2,2,4,3,5,4,3,4,5,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,Rap/Hip Hop
-25,männlich,Student*in,BMI,2,Bogenschießen,3,1,5,1,Gemüsepfanne mit Reis,4,Avatar,2,3,3,2,2,5,3,4,4,3,1,4,2,2,2,3,3,3,1,1,5,2,1,2,5,4,4,2,2,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Heavy Metal
-29,männlich,Student*in,MMI,3,Bouldern,4,5,5,2,Kein Lieblingsessen,3,Kein Lieblingsmusiker,4,2,4,2,3,3,3,5,2,1,4,5,2,3,2,2,3,4,1,4,1,2,1,2,4,3,5,3,4,2,1,4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Kein Lieblingsgenre
-23,männlich,Student*in,BMT,3,Hockey,3,5,5,5,Lasagne,5,Måneskin,3,3,4,3,2,5,4,3,4,5,4,4,3,4,2,3,4,3,2,3,2,4,3,5,4,3,5,3,3,1,3,3,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,Rock
-24,weiblich,Student*in,BMT,2,Badminton,3,3,4,1,Burger,5,Hans Zimmer,4,4,3,5,3,3,1,5,2,3,4,2,3,2,3,1,5,5,1,3,1,5,3,2,2,2,3,3,4,5,1,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Filme/Videospiele
-29,weiblich,Student*in,BMT,2,Reiten,4,5,5,4,Tortelini,5,Beethoven,3,4,3,3,4,4,4,5,4,5,4,5,2,4,2,4,3,5,1,3,2,4,3,2,5,4,5,5,4,5,1,3,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,Klassik
-23,weiblich,Student*in,MMI,3,Squash,4,5,5,3,Sushi,5,6lack,4,3,4,3,3,2,4,3,2,1,3,3,4,3,4,2,3,3,2,5,2,3,4,4,5,5,5,3,4,3,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,R&B
-28,weiblich,Student*in,DAISY,3,Tauchen,3,4,3,4,Pfannkuchen,4,Antilopen Gang,4,4,4,3,4,4,4,4,4,4,4,4,3,3,2,2,4,4,2,4,4,3,4,2,4,3,3,2,3,4,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Rap/Hip Hop
-19,männlich,Student*in,DAISY,4,Fußball,4,3,3,2,Pasta,3,NF,2,1,3,1,1,2,4,3,3,3,3,3,2,2,4,1,4,5,2,3,2,4,3,3,2,2,3,3,3,2,2,3,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Rap/Hip Hop
-27,männlich,Student*in,BMI,5,Fußball,5,1,5,1,Yaprak,5,Deathspell Omega,4,3,5,5,4,5,2,1,3,2,3,1,2,3,3,3,3,3,3,3,4,1,3,2,5,5,4,2,2,3,2,3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Rock
-29,männlich,Student*in,BMT,3,Fußball,5,5,3,3,Lachs mit Bratkartoffeln und Gurkensalat,4,Red Hot Chili Peppers,3,3,5,3,4,5,4,4,3,3,2,4,2,2,3,2,4,3,2,3,2,4,2,2,3,3,4,4,3,4,4,4,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Rock
-25,männlich,Student*in,MMI,4,Klettern,3,3,2,3,Pizza,5,Mac Miller,4,3,3,4,2,5,4,5,2,2,2,5,3,4,2,4,3,1,3,3,1,3,2,2,5,5,2,2,3,3,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
-30,weiblich,Student*in,MMI,4,Yoga,4,3,3,4,Ramen,3,Grimes,5,3,4,3,5,5,4,4,4,3,2,4,4,4,4,3,4,2,2,5,4,4,3,4,5,4,4,5,3,3,3,3,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,Electro
-28,männlich,Student*in,MMI,5,Badminton,5,5,3,3,Humus,5,Die Toten Hosen,1,4,4,2,3,2,4,4,2,3,5,4,4,4,4,2,4,2,3,3,2,4,1,3,3,2,4,4,4,2,2,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Alternative
-24,weiblich,Student*in,MMI,2,Inlineskaten,3,4,4,3,Pasta,4,Radiohead,3,4,5,5,4,4,3,4,2,2,2,3,2,2,3,2,4,5,1,3,4,4,3,4,5,5,4,3,2,3,1,4,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Alternative
-22,weiblich,Student*in,DAISY,4,Basketball,4,5,3,2,Cordon bleu,3,Halsey,5,3,4,4,2,1,5,5,3,4,4,4,4,2,4,1,4,2,1,5,1,4,4,2,3,4,5,4,5,2,3,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Alternative
-30,männlich,Student*in,BMI,4,Fußball,4,3,4,4,Reispfanne mit viel Gemüse,3,Ed sheeran,4,2,2,2,3,1,3,3,4,3,4,3,3,2,4,1,4,3,2,4,4,4,2,2,2,3,5,3,3,2,2,4,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,Pop
-22,männlich,Student*in,BMT,4,Volleyball,3,5,5,4,Carbonara,5,Kein Lieblingsmusiker,2,3,4,4,1,1,4,3,1,2,4,3,5,1,5,1,4,3,3,4,4,3,3,5,5,3,2,3,3,4,5,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Kein Lieblingsgenre
-25,männlich,Student*in,MMI,5,Joggen,4,3,3,2,Ofenkartoffeln mit Gemüse,2,Neffex,4,1,2,1,1,3,2,4,4,3,2,3,2,2,3,2,4,4,1,3,2,4,1,5,3,3,2,3,2,2,4,3,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,Alternative
-26,männlich,Student*in,MMI,1,Keine Lieblingssportart,4,4,5,2,Pommes,5,Haftbefehl,3,4,5,5,5,1,4,5,2,2,3,2,2,3,4,1,5,4,1,5,1,4,1,3,2,1,4,3,2,3,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
-22,männlich,Student*in,BMT,3,Fußball,3,4,4,3,Kein Lieblingsessen,4,Kein Lieblingsmusiker,1,1,2,1,1,4,5,2,1,2,4,4,3,4,2,3,4,4,4,2,1,3,3,2,4,3,4,3,4,4,1,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
-25,weiblich,Student*in,BMT,3,Ruderboot fahren,3,4,3,2,Nudeln mit Pilzen in Sahnesauce,4,Tyler the Creator,4,3,3,4,4,2,3,2,3,2,2,3,3,3,2,2,4,2,3,5,3,2,2,2,4,4,4,5,3,4,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Rap/Hip Hop
-31,weiblich,Student*in,BMI,3,Padel-Tennis,4,5,5,3,Vegane Pho Bo Suppe,5,John Frusciante,4,4,5,5,5,5,2,4,4,4,3,5,3,2,4,2,4,4,2,4,2,5,4,4,3,2,5,4,4,3,2,3,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,Pop
-25,männlich,Student*in,BMT,2,Ski fahren,2,2,3,1,Kein Lieblingsessen,4,Kein Lieblingsmusiker,2,2,3,3,4,2,1,3,4,3,1,2,2,2,2,3,2,5,1,3,2,4,2,1,3,4,2,3,2,4,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Kein Lieblingsgenre
+28,männlich,Student*in,MMI,4,Joggen,4,3,4,3,Vegane Lasagne,5,4,3,3,3,2,2,3,4,2,2,3,3,3,3,3,4,4,4,3,3,2,4,1,5,3,2,5,5,2,2,3,3,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Rock
+26,männlich,Student*in,MMI,3,Fußball,4,4,5,2,Butterbrot,4,2,3,4,4,4,4,5,5,4,4,3,4,3,3,3,1,4,2,2,3,3,4,3,3,2,2,4,3,3,4,3,4,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,Rock
+24,männlich,Student*in,MMI,2,Keine Lieblingssportart,5,4,4,3,Lasagne,5,2,3,4,4,5,3,4,4,3,2,4,5,4,5,4,2,4,5,1,4,2,4,3,5,5,1,3,2,3,2,4,3,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,Alternative
+23,männlich,Student*in,MMI,5,Trampolin,2,4,4,2,Burger,3,3,2,4,1,3,4,2,5,2,3,4,3,3,2,2,1,5,4,2,4,3,4,2,2,2,3,5,4,4,2,3,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Kein Lieblingsgenre
+24,weiblich,Student*in,MMI,3,Klettern,4,3,2,1,Dampfnudeln,3,4,2,5,2,2,1,2,4,1,2,2,2,3,2,5,4,4,4,2,5,4,4,1,1,5,5,2,3,4,3,3,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
+30,männlich,Student*in,MMI,4,Bouldern,3,3,5,4,Pho,2,2,1,3,1,1,5,4,5,3,3,3,3,5,4,5,1,4,3,2,5,1,5,1,3,2,1,4,4,5,3,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
+41,weiblich,Student*in,MMI,3,Keine Lieblingssportart,2,5,3,3,Tomaten,5,4,5,5,5,3,1,4,5,1,3,2,3,4,4,4,1,4,2,1,2,1,4,3,1,3,3,2,4,5,4,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Pop
+24,männlich,Student*in,MMI,3,Fußball,3,4,5,3,Pasta,4,4,1,3,4,4,4,4,4,2,2,3,4,2,3,4,4,4,4,3,5,2,4,2,4,4,3,5,4,5,4,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Alternative
+42,männlich,Dozent*in,DAISY,3,Schnorcheln,3,5,5,3,Pizza,4,4,4,3,4,4,3,2,5,2,5,4,5,3,4,2,3,5,4,1,3,3,3,5,3,1,4,4,2,2,3,1,3,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,Rap/Hip Hop
+34,männlich,Wissenschaftliche*r Mitarbeiter*in,BMI,4,Tennis,4,4,3,2,Sushi,4,3,2,4,3,3,3,4,5,4,5,4,5,3,2,4,2,4,3,1,3,3,4,4,3,3,2,4,3,3,4,2,2,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,Alternative
+20,männlich,Student*in,DAISY,4,Keine Lieblingssportart,4,5,2,3,Koreanisches Dakgangjeong,5,1,2,3,4,4,2,5,4,4,2,2,3,4,1,4,3,3,3,1,3,3,3,4,2,4,3,5,1,2,1,4,3,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Alternative
+19,männlich,Student*in,DAISY,4,Kampfsport,4,3,5,1,Döner,2,5,1,3,2,2,4,4,5,5,5,2,2,3,2,3,2,4,3,1,4,1,4,2,1,4,5,5,2,3,3,2,5,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,Kein Lieblingsgenre
+23,männlich,Student*in,DAISY,4,Football,3,4,5,4,Asiatische Nudeln,5,2,3,4,3,3,5,5,5,2,5,3,4,4,4,4,3,5,3,3,3,3,5,3,5,3,3,3,2,4,3,4,5,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Pop
+24,männlich,Student*in,DAISY,4,Thaiboxen,4,4,4,2,Hühnchen,3,4,2,2,2,3,4,3,5,4,4,2,1,3,2,4,2,4,3,1,4,2,4,1,2,4,4,4,4,1,2,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,Rap/Hip Hop
+19,männlich,Student*in,DAISY,5,Calisthenics,3,5,3,1,Curry,4,5,4,5,2,4,5,5,3,4,3,2,5,2,3,2,4,4,4,2,3,5,2,2,2,5,5,3,2,2,4,5,5,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Rap/Hip Hop
+23,männlich,Student*in,DAISY,4,Calisthenics,4,4,4,2,Burger,4,1,1,3,2,2,5,5,5,4,4,1,4,2,4,3,4,5,3,2,4,5,5,1,3,5,5,5,3,3,3,5,5,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Rap/Hip Hop
+28,weiblich,Student*in,DAISY,3,Tauchen,3,4,3,4,Pfannkuchen,4,5,4,4,4,4,4,3,5,4,5,4,5,3,4,3,3,3,4,2,4,2,3,5,2,4,3,4,3,3,4,2,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Rap/Hip Hop
+25,männlich,Student*in,DAISY,2,Tischtennis,4,5,3,3,Burger,4,3,4,3,4,2,2,5,5,5,2,3,5,3,3,5,3,4,3,1,4,4,4,4,2,4,4,5,3,1,5,2,5,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Rap/Hip Hop
+27,männlich,Student*in,DAISY,2,Tischtennis,3,4,5,4,Risotto,5,2,2,5,3,4,3,4,3,4,2,4,5,3,5,4,3,4,2,1,5,4,4,4,5,5,5,5,4,4,2,2,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,Rock
+25,weiblich,Student*in,MMI,3,Basketball,3,3,4,2,Burger,4,4,2,3,3,3,4,3,4,2,2,3,4,2,2,3,4,3,3,2,2,3,3,3,5,5,5,3,2,2,2,2,3,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,Rock
+25,weiblich,Student*in,MMI,4,Fußball,3,3,4,2,Pizza,4,5,2,5,3,3,3,3,4,2,3,3,4,2,3,3,1,4,5,2,4,2,4,1,4,3,3,4,3,3,2,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Pop
+23,männlich,Student*in,DAISY,3,Schwimmen,4,5,4,4,Burger,3,2,2,4,3,2,5,5,5,2,3,3,3,4,4,3,2,4,4,2,3,3,4,2,3,2,2,4,3,3,4,4,4,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Pop
+18,männlich,Student*in,DAISY,5,Fußball,3,4,3,4,Pizza,4,2,2,4,1,2,3,4,4,4,2,2,2,2,3,3,2,4,3,2,2,3,4,3,3,4,4,2,2,3,1,4,4,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Rap/Hip Hop
+22,männlich,Student*in,DAISY,3,Basketball,4,3,5,4,Reis mit Sojasoße Hähnchen,4,2,4,4,4,2,5,5,5,4,3,3,2,3,2,2,2,3,4,3,4,3,3,1,4,5,2,4,2,4,5,3,5,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,Rock
+22,männlich,Student*in,DAISY,3,Radfahren,5,3,5,2,Kein Lieblingsessen,3,2,1,2,4,3,5,2,5,5,4,2,2,3,2,4,2,5,3,1,5,4,3,5,3,4,3,4,5,3,2,2,3,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,Kein Lieblingsgenre
+28,männlich,Student*in,MMI,5,Fitness,5,4,4,5,Döner,5,3,1,5,1,3,1,4,4,1,2,1,1,3,2,2,1,5,4,3,4,1,4,1,3,5,5,3,4,3,1,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Electro
+24,männlich,Student*in,MMI,3,Tischtennis,4,4,4,4,Burrito,5,4,4,4,5,5,3,3,3,2,2,3,4,3,2,4,4,4,4,2,5,1,3,2,3,3,4,5,4,4,4,2,3,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Electro
+24,männlich,Student*in,MMI,4,Fußball,4,4,4,3,Pizza,4,1,1,4,4,3,2,4,4,2,2,2,3,3,3,5,2,3,4,3,5,1,4,1,4,4,4,5,3,5,4,2,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
+29,männlich,Student*in,MMI,3,E-Sport ,4,2,4,4,Shakshuka,2,1,1,4,1,2,4,4,5,1,3,4,4,4,4,2,3,2,5,1,2,4,4,3,3,5,4,5,2,1,2,2,2,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Rap/Hip Hop
+23,weiblich,Student*in,MMI,3,Reiten,4,3,3,2,Pasta,3,4,3,4,4,2,3,3,4,3,2,4,5,1,4,4,3,2,4,1,3,3,3,4,2,2,3,4,3,3,2,3,3,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,Pop
+31,männlich,Student*in,MMI,2,Tischtennis,1,4,3,5,Pizza,5,4,4,5,4,4,5,1,5,5,5,4,5,2,2,4,4,4,5,1,3,5,5,3,4,4,3,3,3,2,4,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Alternative
+27,weiblich,Student*in,DAISY,2,Karate,4,5,5,4,Lasagne,4,3,2,3,2,2,3,2,4,4,3,2,3,4,3,4,4,4,3,2,3,1,5,3,4,3,3,4,4,2,4,5,5,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Rap/Hip Hop
+24,männlich,Student*in,MMI,2,Keine Lieblingssportart,2,4,2,5,Döner,2,2,1,3,2,3,5,3,5,2,1,2,2,2,2,4,2,4,4,1,3,1,5,2,3,4,3,5,3,3,3,3,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Alternative
+25,männlich,Student*in,BMI,4,Badminton,3,3,2,2,Pasta,5,1,1,3,1,1,5,5,5,2,3,3,4,2,2,4,2,3,3,3,4,4,4,1,2,5,5,4,3,3,2,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
+28,männlich,Wissenschaftliche*r Mitarbeiter*in,BMI,3,Bouldern,3,4,3,2,Lasagne,4,4,1,5,1,2,5,5,5,5,5,1,5,2,2,3,1,5,4,2,3,4,5,2,5,3,2,4,2,2,4,1,4,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Rock
+28,weiblich,Student*in,BMT,2,Radfahren,4,5,3,4,Gurke mit Mozzarella und Tofu,4,3,4,3,4,3,1,4,4,1,3,4,5,4,4,4,1,4,3,2,4,1,5,3,4,3,5,5,3,2,4,3,3,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,Pop
+23,männlich,Student*in,BMT,4,Tanzen,3,3,3,1,Pfannkuchen,5,4,4,4,3,3,2,4,3,4,4,2,3,2,2,3,1,3,5,1,2,2,4,5,3,3,3,4,2,2,1,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Pop
+20,männlich,Student*in,DAISY,4,Kraftsport ,4,5,3,1,Döner,3,5,2,4,4,1,3,5,4,5,3,3,5,5,5,4,1,3,4,2,4,2,4,5,5,3,5,5,2,2,4,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
+19,weiblich,Student*in,DAISY,2,Volleyball,3,4,5,3,Sushi,5,2,5,5,5,4,4,5,4,2,1,5,5,4,4,4,4,5,3,1,4,3,4,2,2,4,3,5,4,3,4,5,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,Rap/Hip Hop
+25,männlich,Student*in,BMI,2,Bogenschießen,3,1,5,1,Gemüsepfanne mit Reis,4,2,3,3,2,2,5,3,4,4,3,1,4,2,2,2,3,3,3,1,1,5,2,1,2,5,4,4,2,2,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Heavy Metal
+29,männlich,Student*in,MMI,3,Bouldern,4,5,5,2,Kein Lieblingsessen,3,4,2,4,2,3,3,3,5,2,1,4,5,2,3,2,2,3,4,1,4,1,2,1,2,4,3,5,3,4,2,1,4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Kein Lieblingsgenre
+23,männlich,Student*in,BMT,3,Hockey,3,5,5,5,Lasagne,5,3,3,4,3,2,5,4,3,4,5,4,4,3,4,2,3,4,3,2,3,2,4,3,5,4,3,5,3,3,1,3,3,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,0,Rock
+24,weiblich,Student*in,BMT,2,Badminton,3,3,4,1,Burger,5,4,4,3,5,3,3,1,5,2,3,4,2,3,2,3,1,5,5,1,3,1,5,3,2,2,2,3,3,4,5,1,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Filme/Videospiele
+29,weiblich,Student*in,BMT,2,Reiten,4,5,5,4,Tortelini,5,3,4,3,3,4,4,4,5,4,5,4,5,2,4,2,4,3,5,1,3,2,4,3,2,5,4,5,5,4,5,1,3,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,Klassik
+23,weiblich,Student*in,MMI,3,Squash,4,5,5,3,Sushi,5,4,3,4,3,3,2,4,3,2,1,3,3,4,3,4,2,3,3,2,5,2,3,4,4,5,5,5,3,4,3,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,R&B
+28,weiblich,Student*in,DAISY,3,Tauchen,3,4,3,4,Pfannkuchen,4,4,4,4,3,4,4,4,4,4,4,4,4,3,3,2,2,4,4,2,4,4,3,4,2,4,3,3,2,3,4,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Rap/Hip Hop
+19,männlich,Student*in,DAISY,4,Fußball,4,3,3,2,Pasta,3,2,1,3,1,1,2,4,3,3,3,3,3,2,2,4,1,4,5,2,3,2,4,3,3,2,2,3,3,3,2,2,3,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Rap/Hip Hop
+27,männlich,Student*in,BMI,5,Fußball,5,1,5,1,Yaprak,5,4,3,5,5,4,5,2,1,3,2,3,1,2,3,3,3,3,3,3,3,4,1,3,2,5,5,4,2,2,3,2,3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Rock
+29,männlich,Student*in,BMT,3,Fußball,5,5,3,3,Lachs mit Bratkartoffeln und Gurkensalat,4,3,3,5,3,4,5,4,4,3,3,2,4,2,2,3,2,4,3,2,3,2,4,2,2,3,3,4,4,3,4,4,4,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Rock
+25,männlich,Student*in,MMI,4,Klettern,3,3,2,3,Pizza,5,4,3,3,4,2,5,4,5,2,2,2,5,3,4,2,4,3,1,3,3,1,3,2,2,5,5,2,2,3,3,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
+30,weiblich,Student*in,MMI,4,Yoga,4,3,3,4,Ramen,3,5,3,4,3,5,5,4,4,4,3,2,4,4,4,4,3,4,2,2,5,4,4,3,4,5,4,4,5,3,3,3,3,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,Electro
+28,männlich,Student*in,MMI,5,Badminton,5,5,3,3,Humus,5,1,4,4,2,3,2,4,4,2,3,5,4,4,4,4,2,4,2,3,3,2,4,1,3,3,2,4,4,4,2,2,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Alternative
+24,weiblich,Student*in,MMI,2,Inlineskaten,3,4,4,3,Pasta,4,3,4,5,5,4,4,3,4,2,2,2,3,2,2,3,2,4,5,1,3,4,4,3,4,5,5,4,3,2,3,1,4,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,Alternative
+22,weiblich,Student*in,DAISY,4,Basketball,4,5,3,2,Cordon bleu,3,5,3,4,4,2,1,5,5,3,4,4,4,4,2,4,1,4,2,1,5,1,4,4,2,3,4,5,4,5,2,3,5,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,Alternative
+30,männlich,Student*in,BMI,4,Fußball,4,3,4,4,Reispfanne mit viel Gemüse,3,4,2,2,2,3,1,3,3,4,3,4,3,3,2,4,1,4,3,2,4,4,4,2,2,2,3,5,3,3,2,2,4,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,Pop
+22,männlich,Student*in,BMT,4,Volleyball,3,5,5,4,Carbonara,5,2,3,4,4,1,1,4,3,1,2,4,3,5,1,5,1,4,3,3,4,4,3,3,5,5,3,2,3,3,4,5,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Kein Lieblingsgenre
+25,männlich,Student*in,MMI,5,Joggen,4,3,3,2,Ofenkartoffeln mit Gemüse,2,4,1,2,1,1,3,2,4,4,3,2,3,2,2,3,2,4,4,1,3,2,4,1,5,3,3,2,3,2,2,4,3,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,Alternative
+26,männlich,Student*in,MMI,1,Keine Lieblingssportart,4,4,5,2,Pommes,5,3,4,5,5,5,1,4,5,2,2,3,2,2,3,4,1,5,4,1,5,1,4,1,3,2,1,4,3,2,3,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Rap/Hip Hop
+22,männlich,Student*in,BMT,3,Fußball,3,4,4,3,Kein Lieblingsessen,4,1,1,2,1,1,4,5,2,1,2,4,4,3,4,2,3,4,4,4,2,1,3,3,2,4,3,4,3,4,4,1,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Kein Lieblingsgenre
+25,weiblich,Student*in,BMT,3,Ruderboot fahren,3,4,3,2,Nudeln mit Pilzen in Sahnesauce,4,4,3,3,4,4,2,3,2,3,2,2,3,3,3,2,2,4,2,3,5,3,2,2,2,4,4,4,5,3,4,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Rap/Hip Hop
+31,weiblich,Student*in,BMI,3,Padel-Tennis,4,5,5,3,Vegane Pho Bo Suppe,5,4,4,5,5,5,5,2,4,4,4,3,5,3,2,4,2,4,4,2,4,2,5,4,4,3,2,5,4,4,3,2,3,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,Pop
+25,männlich,Student*in,BMT,2,Ski fahren,2,2,3,1,Kein Lieblingsessen,4,2,2,3,3,4,2,1,3,4,3,1,2,2,2,2,3,2,5,1,3,2,4,2,1,3,4,2,3,2,4,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Kein Lieblingsgenre
